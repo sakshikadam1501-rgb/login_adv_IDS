@@ -1,0 +1,11 @@
+username,login_hour,failed_attempts,ip_change,device_change,label
+user1,9,0,0,0,0
+user2,10,1,0,0,0
+user3,11,0,0,0,0
+user4,14,1,0,0,0
+user5,15,0,0,0,0
+user6,2,5,1,1,1
+user7,3,6,1,1,1
+user8,1,7,1,1,1
+user9,23,4,1,0,1
+user10,0,6,1,1,1

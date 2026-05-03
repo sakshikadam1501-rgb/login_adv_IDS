@@ -1,0 +1,9 @@
+pip install fastapi uvicorn pandas scikit-learn joblib streamlit
+
+python model/train.py
+
+uvicorn backend.main:app --reload
+
+streamlit run dashboard/app.py
+
+

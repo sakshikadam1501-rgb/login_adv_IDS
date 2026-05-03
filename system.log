@@ -1,0 +1,36 @@
+2026-05-01 10:37:18,704 - INFO - Prediction: intrusion
+2026-05-01 10:37:57,064 - INFO - Prediction: normal
+2026-05-01 10:38:24,870 - INFO - Prediction: normal
+2026-05-01 10:38:46,989 - INFO - Prediction: intrusion
+2026-05-01 10:38:55,344 - INFO - Prediction: intrusion
+2026-05-01 10:38:58,825 - INFO - Prediction: intrusion
+2026-05-01 10:47:18,474 - INFO - Prediction: normal
+2026-05-01 10:47:22,864 - INFO - Prediction: normal
+2026-05-01 10:47:38,635 - INFO - Prediction: normal
+2026-05-01 10:47:41,924 - INFO - Prediction: normal
+2026-05-01 10:47:47,166 - INFO - Prediction: intrusion
+2026-05-01 10:48:41,917 - INFO - Prediction: normal
+2026-05-01 10:48:45,870 - INFO - Prediction: normal
+2026-05-01 10:48:49,369 - INFO - Prediction: normal
+2026-05-01 10:48:53,060 - INFO - Prediction: intrusion
+2026-05-01 10:48:57,875 - INFO - Prediction: normal
+2026-05-01 10:49:00,309 - INFO - Prediction: normal
+2026-05-01 10:49:05,242 - INFO - Prediction: intrusion
+2026-05-01 10:53:45,127 - INFO - Prediction: normal, Score: 0.0012417715596114154
+2026-05-01 10:53:58,677 - INFO - Prediction: normal, Score: 0.009914448789243469
+2026-05-01 10:54:16,418 - INFO - Prediction: normal, Score: 0.009914448789243469
+2026-05-01 10:55:20,843 - INFO - Prediction: normal, Score: 0.0012417715596114154
+2026-05-01 10:55:26,763 - INFO - Prediction: normal, Score: 0.01162959003713493
+2026-05-01 10:55:29,993 - INFO - Prediction: normal, Score: 0.009914448789243469
+2026-05-01 10:56:52,285 - INFO - Prediction: normal, Score: 0.013338322843083894
+2026-05-01 10:59:59,521 - INFO - Prediction: intrusion, Score: -0.01671083904088233
+2026-05-01 11:00:30,994 - INFO - Prediction: normal, Score: 0.05591976732712567
+2026-05-01 11:00:38,018 - INFO - Prediction: intrusion, Score: -0.01671083904088233
+2026-05-01 11:00:47,254 - INFO - Prediction: intrusion, Score: -0.028946946347490843
+2026-05-03 15:26:48,308 - INFO - string \u2192 normal, risk=0.4
+2026-05-03 15:27:05,964 - INFO - string \u2192 intrusion, risk=0.7
+2026-05-03 15:29:28,305 - INFO -  \u2192 intrusion, risk=0.7
+2026-05-03 15:29:44,853 - INFO - Sakya \u2192 intrusion, risk=0.7
+2026-05-03 15:30:12,436 - INFO - Mina \u2192 intrusion, risk=0.3
+2026-05-03 15:30:19,718 - INFO - Mina \u2192 normal, risk=0
+2026-05-03 15:30:38,930 - INFO - Tina \u2192 normal, risk=0.4
